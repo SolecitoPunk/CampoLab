@@ -1,0 +1,22 @@
+Instalación
+===========
+
+Requisitos:
+
+- Python 3.8 o superior
+- numpy
+- matplotlib
+- sphinx (solo para documentación)
+- streamlit (para interfaz GUI)
+
+Instalar desde el repositorio local:
+
+.. code-block:: bash
+
+   pip install -e .
+
+Instalar dependencias específicas:
+
+.. code-block:: bash
+
+   pip install numpy matplotlib streamlit
