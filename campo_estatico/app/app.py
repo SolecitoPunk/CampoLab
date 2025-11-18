@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
-from campo_estatico_mdf.laplace_solver import LaplaceSolver2D
+from campo_estatico.laplace_solver import LaplaceSolver2D
 
 # -----------------------------
 # Tema visual tipo GitHub Dark
